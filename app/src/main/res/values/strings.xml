@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">LoveTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">"Let's find out\nyour love type!"</string>
+    <string name="question_title">There were favorite flowers\nin the flower base.\nAs time goes, the flowers\nhave all withered.\nWhat are you going to do with that?</string>
+
+    <string name="selection_option_1">1. Throw it away.</string>
+    <string name="selection_option_2">2. Water the flowers.</string>
+    <string name="selection_option_3">3. CUt it off with sissors.</string>
+    <string name="selection_option_4">4. Make them as dried flower.</string>
+
+    <string name="result_title">You are a quitter!</string>
+    <string name="result_body">May be you give up on love too easily..</string>
+
+
+</resources>
